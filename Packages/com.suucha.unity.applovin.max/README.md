@@ -1,10 +1,3 @@
-<!--
- * @Date: 2023-09-12 14:27:51
- * @LastEditors: Xiequan
- * @LastEditTime: 2023-09-12 14:27:59
- * @FilePath: \Suucha.Unity.Applovin.Max\Packages\com.suucha.unity.applovin.max\README.md
- * @Author: Xiequan
--->
 # Suucha ADKU - Applovin Max
 AppLovin Max是AppLovin公司推出的一种移动广告媒体购买平台和广告中介服务，旨在帮助开发者和广告商更有效地管理和优化移动广告活动。
 
