@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using SuuchaStudio.Unity.Core.AdPlaying;
 
-namespace Suucha.Unity.Applovin.Max
+namespace SuuchaStudio.Unity.Applovin.Max
 {
     public class MaxInterstitialVideoPlayer : SuuchaBase, IInterstitialVideoPlayer
     {

@@ -2,7 +2,7 @@
 using SuuchaStudio.Unity.Core;
 using SuuchaStudio.Unity.Core.AdPlaying;
 
-namespace Suucha.Unity.Applovin.Max
+namespace SuuchaStudio.Unity.Applovin.Max
 {
     public class MaxBannerPlayer : SuuchaBase, IBannerPlayer
     {

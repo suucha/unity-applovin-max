@@ -3,7 +3,7 @@ using SuuchaStudio.Unity.Core;
 using SuuchaStudio.Unity.Core.AdPlaying;
 using Cysharp.Threading.Tasks;
 
-namespace Suucha.Unity.Applovin.Max
+namespace SuuchaStudio.Unity.Applovin.Max
 {
     public class MaxAdPlayerManager : SuuchaBase, IAdPlayerManager
     {
