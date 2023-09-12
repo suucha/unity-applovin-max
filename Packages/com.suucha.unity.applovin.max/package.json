@@ -11,6 +11,7 @@
 	"dependencies": {
 		"com.suucha.unity.core": "1.0.0"
 	},
+	"author": "suucha",
 	"name": "com.suucha.unity.applovin.max",
 	"version": "1.0.0",
 	"type": "library",
