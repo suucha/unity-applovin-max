@@ -1,0 +1,17 @@
+﻿{
+    "name": "Suucha.Unity.Applovin.Max",
+  "references": [
+  "MaxSdk.Scripts",
+  "Suucha.Unity.Core",
+    "UniTask"
+  ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

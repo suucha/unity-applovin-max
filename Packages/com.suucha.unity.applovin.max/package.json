@@ -1,0 +1,18 @@
+{
+	"displayName": "Suucha Applovin Max",
+	"category": "Unity",
+	"description": "Suucha Applovin Max",
+	"keywords": [
+		"max",
+		"applovin",
+		"suucha",
+		"unity"
+	],
+	"dependencies": {
+		"com.suucha.unity.core": "1.0.0"
+	},
+	"name": "com.suucha.unity.applovin.max",
+	"version": "1.0.0",
+	"type": "library",
+	"unity": "2019.3"
+}
